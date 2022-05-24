@@ -1,0 +1,32 @@
+PROCESSOR 2 
+Player 61 took 0.000454 to win the game 
+Player 62 took 0.000525 to win the game 
+Player 63 took 0.000344 to win the game 
+Player 64 took 0.000421 to win the game 
+Player 65 took 0.000266 to win the game 
+Player 66 took 0.000793 to win the game 
+Player 67 took 0.000377 to win the game 
+Player 68 took 0.000271 to win the game 
+Player 69 took 0.000450 to win the game 
+Player 70 took 0.000398 to win the game 
+Player 71 took 0.000316 to win the game 
+Player 72 took 0.000286 to win the game 
+Player 73 took 0.000343 to win the game 
+Player 74 took 0.000264 to win the game 
+Player 75 took 0.000410 to win the game 
+Player 76 took 0.000404 to win the game 
+Player 77 took 0.000665 to win the game 
+Player 78 took 0.000293 to win the game 
+Player 79 took 0.000568 to win the game 
+Player 80 took 0.000269 to win the game 
+Player 81 took 0.000338 to win the game 
+Player 82 took 0.000392 to win the game 
+Player 83 took 0.002625 to win the game 
+Player 84 took 0.000428 to win the game 
+Player 85 took 0.004112 to win the game 
+Player 86 took 0.000445 to win the game 
+Player 87 took 0.000299 to win the game 
+Player 88 took 0.000311 to win the game 
+Player 89 took 0.000617 to win the game 
+Player 90 took 0.000602 to win the game 
+Time FINAL in seconds -1653423872.00000000 

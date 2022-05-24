@@ -1,0 +1,33 @@
+PROCESSOR 1 
+Player 30 took 0.000395 to win the game 
+Player 31 took 0.000301 to win the game 
+Player 32 took 0.000288 to win the game 
+Player 33 took 0.000282 to win the game 
+Player 34 took 0.000614 to win the game 
+Player 35 took 0.000404 to win the game 
+Player 36 took 0.000482 to win the game 
+Player 37 took 0.000346 to win the game 
+Player 38 took 0.000464 to win the game 
+Player 39 took 0.000350 to win the game 
+Player 40 took 0.000311 to win the game 
+Player 41 took 0.000340 to win the game 
+Player 42 took 0.000396 to win the game 
+Player 43 took 0.000255 to win the game 
+Player 44 took 0.000343 to win the game 
+Player 45 took 0.000337 to win the game 
+Player 46 took 0.000261 to win the game 
+Player 47 took 0.000260 to win the game 
+Player 48 took 0.000590 to win the game 
+Player 49 took 0.000357 to win the game 
+Player 50 took 0.000433 to win the game 
+Player 51 took 0.000236 to win the game 
+Player 52 took 0.000279 to win the game 
+Player 53 took 0.000274 to win the game 
+Player 54 took 0.000270 to win the game 
+Player 55 took 0.000357 to win the game 
+Player 56 took 0.000469 to win the game 
+Player 57 took 0.000303 to win the game 
+Player 58 took 0.000393 to win the game 
+Player 59 took 0.000263 to win the game 
+Player 60 took 0.000252 to win the game 
+Time FINAL in seconds -1653423872.00000000 

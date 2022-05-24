@@ -1,0 +1,33 @@
+PROCESSOR 0 
+Player 0 took 0.000354 to win the game 
+Player 1 took 0.000430 to win the game 
+Player 2 took 0.000351 to win the game 
+Player 3 took 0.000322 to win the game 
+Player 4 took 0.000343 to win the game 
+Player 5 took 0.000580 to win the game 
+Player 6 took 0.000298 to win the game 
+Player 7 took 0.000380 to win the game 
+Player 8 took 0.000506 to win the game 
+Player 9 took 0.000543 to win the game 
+Player 10 took 0.000365 to win the game 
+Player 11 took 0.000363 to win the game 
+Player 12 took 0.000514 to win the game 
+Player 13 took 0.000340 to win the game 
+Player 14 took 0.000427 to win the game 
+Player 15 took 0.000285 to win the game 
+Player 16 took 0.000275 to win the game 
+Player 17 took 0.000777 to win the game 
+Player 18 took 0.000255 to win the game 
+Player 19 took 0.000288 to win the game 
+Player 20 took 0.000247 to win the game 
+Player 21 took 0.000333 to win the game 
+Player 22 took 0.000342 to win the game 
+Player 23 took 0.000265 to win the game 
+Player 24 took 0.000454 to win the game 
+Player 25 took 0.000338 to win the game 
+Player 26 took 0.000343 to win the game 
+Player 27 took 0.000323 to win the game 
+Player 28 took 0.000565 to win the game 
+Player 29 took 0.000378 to win the game 
+Player 30 took 0.000241 to win the game 
+Time FINAL in seconds 0.12329200 

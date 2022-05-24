@@ -1,0 +1,32 @@
+PROCESSOR 3 
+Player 91 took 0.000303 to win the game 
+Player 92 took 0.000307 to win the game 
+Player 93 took 0.000296 to win the game 
+Player 94 took 0.000267 to win the game 
+Player 95 took 0.000475 to win the game 
+Player 96 took 0.000753 to win the game 
+Player 97 took 0.000781 to win the game 
+Player 98 took 0.000275 to win the game 
+Player 99 took 0.000241 to win the game 
+Player 100 took 0.000238 to win the game 
+Player 101 took 0.000374 to win the game 
+Player 102 took 0.000284 to win the game 
+Player 103 took 0.000336 to win the game 
+Player 104 took 0.000290 to win the game 
+Player 105 took 0.000281 to win the game 
+Player 106 took 0.000316 to win the game 
+Player 107 took 0.000289 to win the game 
+Player 108 took 0.000361 to win the game 
+Player 109 took 0.000373 to win the game 
+Player 110 took 0.000323 to win the game 
+Player 111 took 0.000286 to win the game 
+Player 112 took 0.000240 to win the game 
+Player 113 took 0.001093 to win the game 
+Player 114 took 0.000231 to win the game 
+Player 115 took 0.000283 to win the game 
+Player 116 took 0.000240 to win the game 
+Player 117 took 0.000262 to win the game 
+Player 118 took 0.000431 to win the game 
+Player 119 took 0.000388 to win the game 
+Player 110 took 0.000321 to win the game 
+Time FINAL in seconds -1653423872.00000000 
